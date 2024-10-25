@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6c00f18-a1de-40f0-b924-af18169d03ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Ashe.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Ashe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Bastion.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Bastion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Cassidy.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Cassidy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Echo.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Echo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Genji.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Genji.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Hanzo.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Hanzo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Junkrat.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Junkrat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Mei.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Mei.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Pharah.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Pharah.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Reaper.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Reaper.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Sojourn.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Sojourn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Soldier76.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Soldier76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Sombra.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Sombra.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Symmetra.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Symmetra.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Torbjørn.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Torbjørn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Tracer.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Tracer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Venture.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Venture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Damage/Widowmaker.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Widowmaker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Ana.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Ana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Baptiste.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Baptiste.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Brigitte.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Brigitte.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Illari.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Illari.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Juno.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Juno.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Kiriko.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Kiriko.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Lifeweaver.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Lifeweaver.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Lucio.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Lucio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Mercy.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Mercy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Moira.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Moira.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Support/Zenyatta.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Zenyatta.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Doomfist.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Doomfist.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Dva.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Dva.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/JunkerQueen.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/JunkerQueen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Mauga.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Mauga.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Orisa.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Orisa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Ramattra.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Ramattra.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Reinhardt.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Reinhardt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Roadhog.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Roadhog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Sigma.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Sigma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Winston.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Winston.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/WreckingBall.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/WreckingBall.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/Hero Image/Tank/Zarya.png" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Zarya.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Ashe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Bastion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Cassidy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Echo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Genji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Hanzo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Junkrat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Mei.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Pharah.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Reaper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Sojourn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Soldier76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Sombra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Symmetra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Torbjørn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Tracer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Venture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Damage/Widowmaker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Ana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Baptiste.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Brigitte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Illari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Juno.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Kiriko.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Lifeweaver.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Lucio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Mercy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Moira.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Support/Zenyatta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Doomfist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Dva.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/JunkerQueen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Mauga.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Orisa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Ramattra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Reinhardt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Roadhog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Sigma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Winston.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/WreckingBall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/Hero Image/Tank/Zarya.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/hello-view.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nvfWVEEhWCY6ipXahdEAEvGN24" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Sco/Github/RandomOw2Hero/RandomHeroSelector/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Sco\Github\RandomOw2Hero\RandomHeroSelector\src\main\resources" />
+      <recent name="D:\Sco\Github\RandomOw2Hero\RandomHeroSelector\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Sco\Github\RandomOw2Hero\RandomHeroSelector\src\main\resources" />
+      <recent name="D:\Sco\Github\RandomOw2Hero\RandomHeroSelector\src\main\resources\Hero Image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dk.easv.randomheroselector.HelloApplication" />
+      <module name="RandomHeroSelector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.easv.randomheroselector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6c00f18-a1de-40f0-b924-af18169d03ca" name="Changes" comment="" />
+      <created>1729858503917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729858503917</updated>
+      <workItem from="1729858505070" duration="3875000" />
+      <workItem from="1729888350462" duration="2235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
