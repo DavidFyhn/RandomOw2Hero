@@ -3,6 +3,7 @@
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.ListView?>
+<?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.HBox?>
@@ -27,7 +28,10 @@
             <Button fx:id="btnSup" mnemonicParsing="false" onAction="#PressedSupport" text="Support" />
          </children>
       </HBox>
-      <ImageView fx:id="imgHero" fitHeight="150.0" fitWidth="200.0" layoutX="107.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true" />
-      <Button fx:id="lblReset" layoutX="14.0" layoutY="291.0" mnemonicParsing="false" onAction="#OnReset" text="Reset" />
+      <ImageView fx:id="imgHero" fitHeight="150.0" fitWidth="200.0" layoutX="107.0" layoutY="42.0" pickOnBounds="true">
+         <image>
+            <Image url="@Hero%20Image/Tank/Dva.png" />
+         </image></ImageView>
+      <Button fx:id="lblReset" layoutX="14.0" layoutY="294.0" mnemonicParsing="false" onAction="#OnReset" text="Reset" />
    </children>
 </AnchorPane>

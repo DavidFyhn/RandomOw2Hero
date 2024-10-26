@@ -39,7 +39,7 @@ public class HelloController {
         Damage = false;
         Support = false;
 
-        tankImageList.clear();
+        tankList.clear();
         tankList.add("Doomfist");
         tankList.add("Dva");
         tankList.add("JunkerQueen");
@@ -62,7 +62,7 @@ public class HelloController {
         Tank = false;
         Support = false;
 
-        damageImageList.clear();
+        damageList.clear();
         damageList.add("Ashe");
         damageList.add("Bastion");
         damageList.add("Cassidy");
@@ -89,7 +89,7 @@ public class HelloController {
     Damage = false;
 
 
-    supportImageList.clear();
+    supportList.clear();
     supportList.add("Ana");
     supportList.add("Baptiste");
     supportList.add("Brigitte");
@@ -153,6 +153,9 @@ public class HelloController {
         prevHero.clear();
         lstPrev.getItems().clear();
         lstAvail.getItems().clear();
+        tankList.clear();
+        damageList.clear();
+        supportList.clear();
         Tank = false;
         Damage = false;
         Support = false;
