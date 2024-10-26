@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6c00f18-a1de-40f0-b924-af18169d03ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +102,7 @@
       <workItem from="1729858505070" duration="3875000" />
       <workItem from="1729888350462" duration="2235000" />
       <workItem from="1729926287875" duration="1502000" />
-      <workItem from="1729928092869" duration="296000" />
+      <workItem from="1729928092869" duration="706000" />
     </task>
     <servers />
   </component>
