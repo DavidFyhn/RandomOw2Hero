@@ -33,6 +33,8 @@ public class HelloController {
     @FXML
     private void PressedTank(ActionEvent actionEvent) {
         Tank = true;
+        Damage = false;
+        Support = false;
 
         tankImageList.clear();
         tankList.add("Doomfist");
@@ -54,6 +56,8 @@ public class HelloController {
     @FXML
     private void PressedDPS(ActionEvent actionEvent) {
         Damage = true;
+        Tank = false;
+        Support = false;
 
         damageImageList.clear();
         damageList.add("Ashe");
@@ -78,6 +82,9 @@ public class HelloController {
     @FXML
     private void PressedSupport(ActionEvent actionEvent) {
     Support = true;
+    Tank = false;
+    Damage = false;
+
 
     supportImageList.clear();
     supportList.add("Ana");

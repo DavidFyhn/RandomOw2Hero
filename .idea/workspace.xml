@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6c00f18-a1de-40f0-b924-af18169d03ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/hello-view.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/target/classes/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,25 +25,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HelloApplication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Sco/Github/RandomOw2Hero/RandomHeroSelector/pom.xml",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Sco/Github/RandomOw2Hero/RandomHeroSelector/pom.xml&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Sco\Github\RandomOw2Hero\RandomHeroSelector\src\main\resources" />
@@ -105,6 +104,7 @@
       <workItem from="1729858505070" duration="3875000" />
       <workItem from="1729888350462" duration="2235000" />
       <workItem from="1729926287875" duration="1502000" />
+      <workItem from="1729928092869" duration="296000" />
     </task>
     <servers />
   </component>

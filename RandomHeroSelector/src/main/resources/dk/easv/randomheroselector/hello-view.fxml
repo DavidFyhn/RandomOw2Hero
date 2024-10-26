@@ -8,8 +8,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="414.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dk.easv.randomheroselector.HelloController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="320.0" prefWidth="414.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dk.easv.randomheroselector.HelloController">
    <children>
       <Button fx:id="btnRnd" layoutX="137.0" layoutY="259.0" mnemonicParsing="false" onAction="#ChooseHero" prefHeight="32.0" prefWidth="139.0" text="Choose a random Hero" />
       <Label fx:id="lblHero" layoutX="176.0" layoutY="192.0" text="HERO">
@@ -29,6 +28,6 @@
          </children>
       </HBox>
       <ImageView fx:id="imgHero" fitHeight="150.0" fitWidth="200.0" layoutX="107.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true" />
-      <Button fx:id="lblReset" layoutX="14.0" layoutY="361.0" mnemonicParsing="false" onAction="#OnReset" text="Reset" />
+      <Button fx:id="lblReset" layoutX="14.0" layoutY="291.0" mnemonicParsing="false" onAction="#OnReset" text="Reset" />
    </children>
 </AnchorPane>
