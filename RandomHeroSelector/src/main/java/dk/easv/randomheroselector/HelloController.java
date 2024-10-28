@@ -72,7 +72,10 @@ public class HelloController {
         damageList.add("Junkrat");
         damageList.add("Mei");
         damageList.add("Pharah");
+        damageList.add("Reaper");
+        damageList.add("Sojourn");
         damageList.add("Sombra");
+        damageList.add("Soldier76");
         damageList.add("Symmetra");
         damageList.add("Torbjørn");
         damageList.add("Tracer");
@@ -115,18 +118,24 @@ public class HelloController {
           int randomTank = (int) (Math.random() * tankList.size());
           chosenHero = tankList.get(randomTank);
           lblHero.setText(tankList.get(randomTank));
-
+          String role = "Tank";
+          String name = tankList.get(randomTank);
+          updateImage(role, name);
       }
       if (Damage){
           int randomDamage = (int) (Math.random() * damageList.size());
           chosenHero = damageList.get(randomDamage);
           lblHero.setText(damageList.get(randomDamage));
-
+          String role = "Damage";
+          String name = damageList.get(randomDamage);
+          updateImage(role, name);
       }
       if (Support){
           int randomSupport = (int) (Math.random() * supportList.size());
           chosenHero = supportList.get(randomSupport);
-
+          String role = "Support";
+          String name = supportList.get(randomSupport);
+          updateImage(role, name);
       }
 
         if (chosenHero != null) {
@@ -147,6 +156,11 @@ public class HelloController {
         lstAvail.getItems().addAll(heroList);
     }
 
+    private void updateImage(String role, String hero){
+        Image image = new Image(getClass().getResourceAsStream("/HeroImage/" + role + "/" + hero + ".png"));
+        imgHero.setImage(image);
+    }
+
 
     @FXML
     private void OnReset(ActionEvent actionEvent) {
@@ -160,6 +174,7 @@ public class HelloController {
         Damage = false;
         Support = false;
         lblHero.setText("");
+        imgHero.setImage(null);
     }
 
 
