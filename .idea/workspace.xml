@@ -1,57 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RandomHeroSelector:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6c00f18-a1de-40f0-b924-af18169d03ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/java/dk/easv/randomheroselector/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Ashe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Bastion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Cassidy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Echo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Genji.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Hanzo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Junkrat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Mei.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Pharah.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Reaper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Sojourn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Soldier76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Sombra.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Symmetra.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Torbjørn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Tracer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Venture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Damage/Widowmaker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Ana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Baptiste.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Brigitte.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Illari.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Juno.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Kiriko.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Lifeweaver.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Lucio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Mercy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Moira.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Support/Zenyatta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Doomfist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Dva.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/JunkerQueen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Mauga.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Orisa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Ramattra.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Reinhardt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Roadhog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Sigma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Winston.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/WreckingBall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/Hero Image/Tank/Zarya.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/src/main/resources/dk/easv/randomheroselector/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/target/classes/dk/easv/randomheroselector/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomHeroSelector/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/RandomHeroSelector/target/classes/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -69,25 +33,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Sco/Github/RandomOw2Hero/RandomHeroSelector/pom.xml&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Sco/Github/RandomOw2Hero/RandomHeroSelector/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Sco\Github\RandomOw2Hero\RandomHeroSelector\src\main\resources" />
@@ -132,8 +97,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
       </set>
     </attachedChunks>
   </component>
@@ -151,6 +116,7 @@
       <workItem from="1729928092869" duration="706000" />
       <workItem from="1729930133915" duration="2331000" />
       <workItem from="1730141058015" duration="1379000" />
+      <workItem from="1730447924015" duration="3174000" />
     </task>
     <servers />
   </component>
